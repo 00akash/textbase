@@ -23,20 +23,6 @@ The Health Buddy Chatbot is an AI-powered chatbot designed to assist users with 
 2. Type "General Health Inquiry" to start a conversation.
 3. Follow the prompts and select options to utilize different features.
 
-<p align="center">
-    <a href="https://docs.textbase.ai">
-        <img alt="Documentation" src="https://img.shields.io/website/http/huggingface.co/docs/transformers/index.svg?down_color=red&down_message=offline&up_message=online">
-    </a>
-</p>
-
-<h3 align="center">
-    <p>✨ Textbase is a framework for building chatbots using NLP and ML. ✨</p>
-</h3>
-
-<h3 align="center">
-    <a href="https://textbase.ai"><img src="assets/banner.png"></a>
-</h3>
-
 Just implement the `on_message` function in `main.py` and Textbase will take care of the rest :)
 
 Since it is just Python you can use whatever models, libraries, vector databases and APIs you want.
