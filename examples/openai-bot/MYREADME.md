@@ -1,9 +1,9 @@
 # Health Buddy Chatbot
-The Health Buddy Chatbot is an AI-powered chatbot designed to assist users with their health-related inquiries and needs. It provides a wide range of features, including health tips, medical condition information, medication reminders, and the ability to make emergency calls and order medicines.
+The Health Buddy Chatbot is an AI-powered chatbot designed to assist users with their health-related inquiries and needs. It provides a wide range of features, including health tips, medical condition information, and the ability to make emergency calls and order medicines.
 
 ## Video 
 
-https://github.com/cofactoryai/textbase/assets/76787526/1d401548-3f18-4d22-8ad6-c7727c7cbbfe
+https://github.com/00akash/textbase/assets/76787526/cc6dc8ab-322c-41e6-abfa-f458c12168c5
 
 
 ## Table of Contents
@@ -17,7 +17,6 @@ https://github.com/cofactoryai/textbase/assets/76787526/1d401548-3f18-4d22-8ad6-
 
 - **Health Tips:** Get valuable health tips and advice on nutrition, exercise, and general wellness.
 - **Medical Condition Information:** Learn about various medical conditions and access resources for further information.
-- **Medication Reminders:** Never miss a dose with medication reminders and tracking.
 - **Emergency Response:** Make emergency calls to specified contacts in critical situations.
 - **Medicine Ordering:** Easily order medicines through the integrated medicine ordering system.
 - ****Ask Health Related Questions:** :** Explore all the features.
